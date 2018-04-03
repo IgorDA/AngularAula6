@@ -3,7 +3,7 @@ export interface Endereco{
     logradouro : string;
     complemento : string;
     bairro : string;
-    localicade : string;
+    localidade : string;
     uf : string;
     unidade : string;
     ibge : string;
